@@ -4,7 +4,7 @@
 
 ## 安卓-影视软件
 
-[2025082-影视-看看剧，动漫番剧,免登录，去广告，可下载](https://github.com/lilei317/Account_Description/blob/main/0821-KKJ.md)
+[20250821-影视-看看剧，动漫番剧,免登录，去广告，可下载](https://github.com/lilei317/Account_Description/blob/main/0821-KKJ.md)
 
 [20250820-影视-星际影视,去广告，可下载](https://github.com/lilei317/Account_Description/blob/main/0820-XJYS.md)
 
