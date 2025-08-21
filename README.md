@@ -4,6 +4,8 @@
 
 ## 安卓-影视软件
 
+[20250821-音乐-酷我音乐，去广告破解vip](https://github.com/lilei317/Account_Description/blob/main/0821-KWYY.md)
+
 [20250821-影视-看看剧，动漫番剧,免登录，去广告，可下载](https://github.com/lilei317/Account_Description/blob/main/0821-KKJ.md)
 
 [20250820-影视-星际影视,去广告，可下载](https://github.com/lilei317/Account_Description/blob/main/0820-XJYS.md)
@@ -14,4 +16,4 @@
 
 [20250818-影视-追番达人，去广告，可缓存](https://github.com/lilei317/Account_Description/blob/main/0818-TKYS.md)
 
-[20250818-音乐-酷我音乐，去广告破解vip](https://github.com/lilei317/Account_Description/blob/main/0818-KW_Music.md)
+[20250818-音乐-酷我音乐，去广告破解vip（提示更新，建议勿用）](https://github.com/lilei317/Account_Description/blob/main/0818-KW_Music.md)
