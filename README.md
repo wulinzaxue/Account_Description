@@ -2,9 +2,19 @@
 
 在网上搜罗了一些网站，包括影视、学习、实用等分类的软件。
 
-## 安卓-影视软件
+## 安卓软件-娱乐
 
-[20250821-影视-好好看，目前分享的最优质的影视应用之一](https://github.com/lilei317/Account_Description/blob/main/0822-HHK.md)
+[20250824-影视-幕启星河,去广告，可下载，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0824-MQXH.md)
+
+[20250824-小说-橙子阅读,去广告，可缓存，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0824-CZYD.md)
+
+[20250823-影视-宽带电视，电视盒子，点开即用（极简）](https://github.com/wulinzaxue/Account_Description/blob/main/0823-KDDS.md)
+
+[20250822-漫画-轻图馆，破解版，无广告，无需登录可阅读或缓存所有章节漫画](https://github.com/wulinzaxue/Account_Description/blob/main/0822-QTG.md)
+
+[20250822-影视-宝盒TV，电视盒子，极简无广告，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0822-BHTV.md)
+
+[20250822-影视-好好看，目前分享的最优质的影视应用之一](https://github.com/lilei317/Account_Description/blob/main/0822-HHK.md)
 
 [20250821-音乐-酷我音乐，去广告破解vip](https://github.com/lilei317/Account_Description/blob/main/0821-KWYY.md)
 
