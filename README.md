@@ -7,9 +7,7 @@
 
 [2025085-FadCa-息屏摄影](https://github.com/wulinzaxue/Account_Description/blob/main/0825-FadCam.md)
 
-
-
-## 安卓软件-娱乐
+## 安卓软件-影视
 
 [20250824-影视-幕启星河,去广告，可下载，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0824-MQXH.md)
 
