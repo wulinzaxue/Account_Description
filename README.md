@@ -2,6 +2,13 @@
 
 在网上搜罗了一些网站，包括影视、学习、实用等分类的软件。
 
+
+## 安卓软件-实用
+
+[2025085-FadCa-息屏摄影](https://github.com/wulinzaxue/Account_Description/blob/main/0824-MQXH.md)
+
+
+
 ## 安卓软件-娱乐
 
 [20250824-影视-幕启星河,去广告，可下载，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0824-MQXH.md)
