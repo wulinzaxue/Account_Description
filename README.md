@@ -5,7 +5,7 @@
 
 ## 安卓软件-实用
 
-[2025085-FadCa-息屏摄影](https://github.com/wulinzaxue/Account_Description/blob/main/0825-MQXH.md)
+[2025085-FadCa-息屏摄影](https://github.com/wulinzaxue/Account_Description/blob/main/0825-FadCam.md)
 
 
 
