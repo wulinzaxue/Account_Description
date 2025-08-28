@@ -9,6 +9,8 @@
 
 ## 安卓软件-影视
 
+[20250828-影视-新大师兄影视,去广告，可下载，多源，弹幕](https://github.com/wulinzaxue/Account_Description/blob/main/0828-XDSX.md)
+
 [20250828-影视-小柠檬,去广告，可下载，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0828-XNM.md)
 
 [20250824-影视-幕启星河,去广告，可下载，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0824-MQXH.md)
