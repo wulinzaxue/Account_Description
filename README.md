@@ -9,6 +9,8 @@
 
 ## 安卓软件-影视
 
+[20250830-影视-MyComic,漫画、小说和影视三合一，去广告，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0830-MyComic.md)
+
 [20250828-影视-新大师兄影视,去广告，可下载，多源，弹幕](https://github.com/wulinzaxue/Account_Description/blob/main/0828-XDSX.md)
 
 [20250828-影视-小柠檬,去广告，可下载，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0828-XNM.md)
