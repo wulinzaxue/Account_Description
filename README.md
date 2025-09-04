@@ -1,6 +1,9 @@
 # 软件描述
 
-在网上搜罗了一些网站，包括影视、学习、实用等分类的软件。
+在网上搜罗了一些网站，包括影视、学习、实用等分类的软件。实际上每天都在更新一些软件内容，不过只有敏感资源才会在这里码出来。
+
+![198030645cfdd998b06a6cb75c7ae1a3](https://github.com/user-attachments/assets/3a611416-1ca6-4092-99b8-f38131881adb)
+
 
 
 ## 安卓软件-实用
@@ -8,6 +11,10 @@
 [20250825-FadCa-息屏摄影](https://github.com/wulinzaxue/Account_Description/blob/main/0825-Fadcam.md)
 
 ## 安卓软件-影视
+
+[20250904-影视-番喜视频,免费无广告，资源丰富可下载、看弹幕创房间、排期表和排行榜实时更新](https://github.com/wulinzaxue/Account_Description/blob/main/0904-FXSP.md)
+
+[20250903-影视-皓月影仓，电视应用、多源、免费无广告、自定义程度高](https://github.com/wulinzaxue/Account_Description/blob/main/0903-HYYC.md)
 
 [20250830-影视-MyComic,漫画、小说和影视三合一，去广告，多源](https://github.com/wulinzaxue/Account_Description/blob/main/0830-MyComic.md)
 
