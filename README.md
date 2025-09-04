@@ -11,6 +11,8 @@
 
 ## 安卓软件-影视
 
+[20250904-影视-高山影院,电视盒子](https://github.com/wulinzaxue/Account_Description/blob/main/0904-GSYY.md)
+
 [20250904-影视-番喜视频,免费无广告，资源丰富可下载、看弹幕创房间、排期表和排行榜实时更新](https://github.com/wulinzaxue/Account_Description/blob/main/0904-FXSP.md)
 
 [20250903-影视-皓月影仓，电视应用、多源、免费无广告、自定义程度高](https://github.com/wulinzaxue/Account_Description/blob/main/0903-HYYC.md)
