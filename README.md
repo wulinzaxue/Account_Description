@@ -11,7 +11,6 @@
 
 ## 安卓软件-影视
 
-https://github.com/wulinzaxue/Account_Description/blob/main/0905-LYYS.md
 
 [20250905-影视-恋鱼影视,免费追剧、影视资源丰富、画质高清、智能推荐资源](https://github.com/wulinzaxue/Account_Description/blob/main/0904-GSYY.md)
 
