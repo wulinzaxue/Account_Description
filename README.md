@@ -11,6 +11,10 @@
 
 ## 安卓软件-影视
 
+https://github.com/wulinzaxue/Account_Description/blob/main/0905-LYYS.md
+
+[20250905-影视-恋鱼影视,免费追剧、影视资源丰富、画质高清、智能推荐资源](https://github.com/wulinzaxue/Account_Description/blob/main/0904-GSYY.md)
+
 [20250904-影视-高山影院,电视盒子](https://github.com/wulinzaxue/Account_Description/blob/main/0904-GSYY.md)
 
 [20250904-影视-番喜视频,免费无广告，资源丰富可下载、看弹幕创房间、排期表和排行榜实时更新](https://github.com/wulinzaxue/Account_Description/blob/main/0904-FXSP.md)
