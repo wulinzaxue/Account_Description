@@ -9,6 +9,8 @@
 
 [20250825-FadCa-息屏摄影](https://github.com/wulinzaxue/Account_Description/blob/main/0825-Fadcam.md)
 
+[20250907-Snaptube-油管视频下载](https://github.com/wulinzaxue/Account_Description/blob/main/0907-Snaptube.md)
+
 ## 安卓软件-影视
 
 
